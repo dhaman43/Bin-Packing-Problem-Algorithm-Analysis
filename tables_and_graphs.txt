@@ -1,1 +1,0 @@
-In this folder all of our tables and graphs will be located.
