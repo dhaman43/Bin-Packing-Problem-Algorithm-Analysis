@@ -51,6 +51,6 @@ The algorithms are evaluated based on:
 - Consistency across datasets  
 
 ## How to run
--Download the newest version of Python
--Download some IDE for python code, pycharm, is recommened
--run the code in your IDE.
+- Download the newest version of Python 
+- Download some IDE for python code, pycharm, is recommened 
+- run the code in your IDE. 
